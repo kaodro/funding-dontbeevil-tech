@@ -9,7 +9,7 @@ Thank you for visiting the Funding “don’t be evil” tech project repository
 * [What am we doing and why?](#what-am-I-doing-and-why)
 * [Who am I?](#who-am-I)
 * [What do I need?](#what-do-I-need)
-* [How can you get involved?](#get-involved)
+* [How can you get involved?](#How-ca-you-get-involved)
 * [Get in touch](#get-in-touch)
 
 
@@ -62,6 +62,8 @@ Please note that it's very important that we maintain a positive and supportive 
 
 ## Get in touch
 
-If you want to report a problem or suggest an enhancement I'd love for you to open an issue at this github repository or contact me by email (kasia AT mozillafoundation DOT org) or on twitter (https://twitter.com/kaodro).
+If you think you can help in any of the areas listed above or in any of the many areas that I haven't yet thought of then please check out the contributors' guidelines (coming soon!) and the roadmap [roadmap](https://github.com/kaodro/funding-dontbeevil-tech/wiki/Roadmap).
+
+If you want to report a problem or suggest an enhancement I'd love for you to open an issue at this github repository or contact me by email (kasia AT mozillafoundation DOT org) or on [twitter](https://twitter.com/kaodro).
 
 
