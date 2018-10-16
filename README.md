@@ -55,13 +55,13 @@ If you have expertise in website design, wordpress development and last but not 
 
 ## How can you get involved?
 
-If you think you can help in any of the areas listed above or in any of the many areas that I haven't yet thought of then please check out the contributors' guidelines (coming soon!) and the roadmap.
+If you think you can help in any of the areas listed above or in any of the many areas that I haven't yet thought of then please check out the contributors' guidelines (coming soon!) and the roadmap [roadmap](https://github.com/kaodro/funding-dontbeevil-tech/wiki/Roadmap).
 
 Please note that it's very important that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our code of conduct in all interactions both on and offline.
 
 
 ## Get in touch
 
-If you want to report a problem or suggest an enhancement we'd love for you to open an issue at this github repository because then we can get right on it. But you can also contact me by email (kasia AT mozillafoundation DOT org) or on twitter (https://twitter.com/kaodro).
+If you want to report a problem or suggest an enhancement I'd love for you to open an issue at this github repository or contact me by email (kasia AT mozillafoundation DOT org) or on twitter (https://twitter.com/kaodro).
 
 
