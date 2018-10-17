@@ -35,7 +35,7 @@ The repository will:
 
 * Improve visibility of alternative funding and business models for founders and researchers by gathering best practices that can be replicated when creating a company 
 
-* Allow anyone to add ideas and examples so the database can grow 
+* Allow anyone to add ideas and examples in a playful way so the database can grow 
 
 * Provide a space for exchange and networking for people interested in the topics: both practitioners and researchers
 
