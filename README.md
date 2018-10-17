@@ -6,38 +6,38 @@ Welcome!
 
 Thank you for visiting the Funding “don’t be evil” tech project repository. Whether you were intrigued by the title or are already deep into the topic of ethical tech, this document (the README file) will give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.
 
-* [What am we doing and why?](#what-am-I-doing-and-why)
-* [Who am I?](#who-am-I)
-* [What do I need?](#what-do-I-need)
-* [How can you get involved?](#How-ca-you-get-involved)
+* [What am we doing and why?](#what-am-I-doing-and-why-?)
+* [Who am I?](#who-am-I-?)
+* [What do I need?](#what-do-I-need-?)
+* [How can you get involved?](#How-can-you-get-involved-?)
 * [Get in touch](#get-in-touch)
 
 
 ## What am I doing and why?
 
-#**The big problem**
+#### The big problem
 
 Women who drink margarita and like to walk their dogs, married, over 40” equals the sound of money. The public park of expression from the 90ties has turned into a mall where our data is the foundation of most revenue models. And although there are many ways we might harness our data to our favour, it is not us who controls it and decides what's relevant to us. The decisions are based on the major incentive of any commercial entity: making money. There is very little wiggle space for an “ethics first“ approach unless it is by design. The now traditional model of funding tech startups - the VC funding - leads to  to pressure on exponential growth which often results in deprioritizing ethical considerations.
 
-#**What contributes to the problem**
+#### What contributes to the problem
 
-*Although there are already alternative models out there that foster funding and business models beyond VC, they don’t seem to get a lot of backing or promotion among startup founders and in the industry. 
+* Although there are already alternative models out there that foster funding and business models beyond VC, they don’t seem to get a lot of backing or promotion among startup founders and in the industry. 
 
-*There is little coordination for communities around concrete ideas than would span between platform cooperativism to new, inspirational ideas like exit tax. 
+* There is little coordination for communities around concrete ideas than would span between platform cooperativism to new, inspirational ideas like exit tax. 
 
-*The general attitude that we can’t or that it is very difficult to change the status quo is prevailing in the industry and among concerned users and activists.
+* The general attitude that we can’t or that it is very difficult to change the status quo is prevailing in the industry and among concerned users and activists.
 
-#**How will this project help the situation?**
+#### How will this project help the situation?
 
 Together with an international community of tech entrepreneurs, activists and researchers I want to build a repository of inspirational ideas and best practices for alternative funding for tech so that (future) founders are structurally incentivized to develop ethical products.
 
 The repository will:
 
-*Improve visibility of alternative funding and business models for founders and researchers by gathering best practices that can be replicated when creating a company 
+* Improve visibility of alternative funding and business models for founders and researchers by gathering best practices that can be replicated when creating a company 
 
-*Allow anyone to add ideas and examples so the database can grow 
+* Allow anyone to add ideas and examples so the database can grow 
 
-*Provide a space for exchange and networking for people interested in the topics: both practitioners and researchers
+* Provide a space for exchange and networking for people interested in the topics: both practitioners and researchers
 
 
 ## Who I am? 
